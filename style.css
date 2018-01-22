@@ -1,0 +1,21 @@
+
+header{
+  font-family: 'Cabin Condensed', sans-serif;
+
+}
+.btext{
+    color: #f9f3f4;
+    position: absolute;
+    text-align: center;
+    top: 40%;
+    width: 100%;
+    line-height: 0.4em;
+}
+
+#info{
+  font-family: 'Handlee', cursive;
+}
+#particles-js{
+    background-image: url('bluewall.jpg');
+    height: 100vh;
+}
